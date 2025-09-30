@@ -13,5 +13,5 @@ async def root():
 async def testefuncao():
 
     return {"teste": True, "num_aleatoerio": random.randint(0, 1000)}
-main
+
 
